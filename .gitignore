@@ -1,0 +1,6 @@
+env
+notes.txt
+__pycache__/
+notebooks
+.vscode
+MeetingFIles
